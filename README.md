@@ -8,3 +8,13 @@ Solved 2 coding problems from HackerRank using Python. The problems are based on
 1. The first problem is related to the maximum of the hourglass sum. Refer to Day1/Problem 1.pdf for more information regarding the hourglass sum. 
 
 2. The second problem is related to array manipulation. It returns the maximum value from an array after overlapping and adding the contents of it. Refer to Day1/Problem 2.pdf for a detailed explanation.
+
+
+## Day 2
+Solved 3 coding problems from HackerRank using Python. The problems are based on different topics.
+
+1. The first problem is related to the time complexity of prime number verification. Refer to Day2/Problem 1.pdf for more information regarding the problem. 
+
+2. The second problem is related to Regular Expressions. It should return the sorted list of the names if the email domain of the person is gmail.com. Refer to Day2/Problem 2.pdf for a detailed explanation.
+
+3. The third problem is related to the removal of duplicate values from the Linked List. Refer to Day2/Problem 3.pdf for a detailed explanation.
