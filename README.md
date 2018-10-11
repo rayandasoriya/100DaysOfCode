@@ -25,3 +25,9 @@ Solved 2 coding problems from HackerRank using Java. The problems are based on d
 1. The first problem is related to RegEx to remove the repeated words from a senetence. Refer to Day3/Problem 1.pdf for more information regarding the problem. 
 
 2. The second problem is related to XOR calculation. It should return the number of terms which are greater than the later numer and XOR calculated value. Refer to Day3/Problem 2.pdf for a detailed explanation.
+
+## Day 4
+Solved 1 coding problem from HackerRank using Python. The problems are based arrays.
+
+1. The problem is related to sorting of an array to count the number of Fraudulent notifications. It was a challenging one. Refer to Day4/Problem 1.pdf for more information regarding the problem. 
+
