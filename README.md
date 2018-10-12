@@ -22,12 +22,18 @@ Solved 3 coding problems from HackerRank using Python. The problems are based on
 ## Day 3
 Solved 2 coding problems from HackerRank using Java. The problems are based on different topics.
 
-1. The first problem is related to RegEx to remove the repeated words from a senetence. Refer to Day3/Problem 1.pdf for more information regarding the problem. 
+1. The first problem is related to RegEx to remove the repeated words from a sentence. Refer to Day3/Problem 1.pdf for more information regarding the problem. 
 
-2. The second problem is related to XOR calculation. It should return the number of terms which are greater than the later numer and XOR calculated value. Refer to Day3/Problem 2.pdf for a detailed explanation.
+2. The second problem is related to the XOR calculation. It should return the number of terms which are greater than the later number and XOR calculated value. Refer to Day3/Problem 2.pdf for a detailed explanation.
 
 ## Day 4
 Solved 1 coding problem from HackerRank using Python. The problems are based arrays.
 
-1. The problem is related to sorting of an array to count the number of Fraudulent notifications. It was a challenging one. Refer to Day4/Problem 1.pdf for more information regarding the problem. 
+1. The problem is related to the sorting of an array to count the number of Fraudulent notifications. It was a challenging one. Refer to Day4/Problem 1.pdf for more information regarding the problem. 
 
+## Day 5
+Solved 2 coding problems from HackerRank using Python and C++. The problems are based arrays.
+
+1. The problem is related to Anagrams which deals with finding all the possible substrings within a string which can form an anagram. Refer to Day5/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to Bribe in which we have to consider if the bribe giving is possible or chaotic. Refer to Day5/Problem 2.pdf for detailed information. 
