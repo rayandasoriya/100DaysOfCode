@@ -1,6 +1,8 @@
 # 100DaysOfCode
 
-On October 8, 2018, I started the challenge of **100 Days Of Code** challenge. During the course of this challenge, I pledge to code for 100 days. The problems will be selected from HackerRank, CodeChef and GeeksForGeeks. The code will be pushed iff all the test cases are successful. I believe that the length of the code doesn't matter until the logic is right and hence, cannot be a quality parameter. I expect this challenge to be a wonderful experience. For any suggestions, feel free to mail me at dasoriyarayan@gmail.com
+On October 8, 2018, I started the challenge of **100 Days Of Code** challenge. During the course of this challenge, I pledge to code for 100 days. The problems will be selected from HackerRank, CodeChef and GeeksForGeeks. The code will be pushed iff all the test cases are successful. 
+
+I believe that the length of the code doesn't matter until the logic is right and hence, cannot be a quality parameter. I expect this challenge to be a wonderful experience. For any suggestions, feel free to mail me at dasoriyarayan@gmail.com
 
 ## Day 1
 Solved 2 coding problems from HackerRank using Python. The problems are based on arrays.
@@ -36,4 +38,11 @@ Solved 2 coding problems from HackerRank using Python and C++. The problems are 
 
 1. The problem is related to Anagrams which deals with finding all the possible substrings within a string which can form an anagram. Refer to Day5/Problem 1.pdf for more information regarding the problem. 
 
-2. The problem is related to Bribe in which we have to consider if the bribe giving is possible or chaotic. Refer to Day5/Problem 2.pdf for detailed information. 
+2. The problem is related to Bribe in which we have to consider if the bribe giving is possible or chaotic. Refer to Day5/Problem 2.pdf for detailed information.  (PS: I don't support bribes :p)
+
+## Day 6
+Solved 2 coding problems from HackerRank using Python. The problems are based searching algorithms.
+
+1. The problem is related to the minimum change of sum require to form a magic square (diagonal, row and column sum of a matrix is same). Refer to Day6/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to the options to test the ice cream flavors having certain constraits. Refer to Day6/Problem 2.pdf for detailed information. 
