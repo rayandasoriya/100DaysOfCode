@@ -43,6 +43,13 @@ Solved 2 coding problems from HackerRank using Python and C++. The problems are 
 ## Day 6
 Solved 2 coding problems from HackerRank using Python. The problems are based searching algorithms.
 
-1. The problem is related to the minimum change of sum require to form a magic square (diagonal, row and column sum of a matrix is same). Refer to Day6/Problem 1.pdf for more information regarding the problem. 
+1. The problem is related to the minimum change of sum require to form a magic square (diagonal, row and column sum of a matrix is the same). Refer to Day6/Problem 1.pdf for more information regarding the problem. 
 
-2. The problem is related to the options to test the ice cream flavors having certain constraits. Refer to Day6/Problem 2.pdf for detailed information. 
+2. The problem is related to the options to test the ice cream flavors having certain constraints. Refer to Day6/Problem 2.pdf for detailed information. 
+
+## Day 7
+Solved 2 coding problems from HackerRank using Python. The problems are based on different topics.
+
+1. The problem is related to the Lexicographical order to find the next highest word in the dictionary. Refer to Day7/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to finding a subset of an array whose sum is not a multiple of a given number.  Refer to Day7/Problem 2.pdf for detailed information. 
