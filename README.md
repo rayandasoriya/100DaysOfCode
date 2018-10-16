@@ -53,3 +53,11 @@ Solved 2 coding problems from HackerRank using Python. The problems are based on
 1. The problem is related to the Lexicographical order to find the next highest word in the dictionary. Refer to Day7/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to finding a subset of an array whose sum is not a multiple of a given number.  Refer to Day7/Problem 2.pdf for detailed information. 
+
+## Day 8
+Solved 2 coding problems from HackerRank using C++. The problems are based on hashmaps and dictionaries.
+
+1. The problem is related to the the number of triplets of GP from an array. Refer to Day8/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to find if any string contains a substring of the other.  Refer to Day8/Problem 2.pdf for detailed information. 
+
