@@ -62,9 +62,16 @@ Solved 2 coding problems from HackerRank using C++. The problems are based on ha
 2. The problem is related to find if any string contains a substring of the other.  Refer to Day8/Problem 2.pdf for detailed information. 
 
 ## Day 9
-Solved 2 coding problems from HackerRank using C++. The problems are based on string manipulataion.
+Solved 2 coding problems from HackerRank using Python. The problems are based on string manipulataion.
 
 1. The problem is related to special palindrome configuration. Refer to Day9/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to find the numebr of characters we need to delete to make two strings anagram.  Refer to Day9/Problem 2.pdf for detailed information. 
+
+
+## Day 10
+Solved 2 coding problems from HackerRank using Python. The problems are based on Searching.
+1. The problem is related to time production and efficient costs. Refer to Day10/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to find the maximum sub-array sum.  Refer to Day10/Problem 2.pdf for detailed information. 
 
