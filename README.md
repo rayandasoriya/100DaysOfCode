@@ -57,16 +57,16 @@ Solved 2 coding problems from HackerRank using Python. The problems are based on
 ## Day 8
 Solved 2 coding problems from HackerRank using C++. The problems are based on hashmaps and dictionaries.
 
-1. The problem is related to the the number of triplets of GP from an array. Refer to Day8/Problem 1.pdf for more information regarding the problem. 
+1. The problem is related to the number of triplets of GP from an array. Refer to Day8/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to find if any string contains a substring of the other.  Refer to Day8/Problem 2.pdf for detailed information. 
 
 ## Day 9
-Solved 2 coding problems from HackerRank using Python. The problems are based on string manipulataion.
+Solved 2 coding problems from HackerRank using Python. The problems are based on string manipulation.
 
-1. The problem is related to special palindrome configuration. Refer to Day9/Problem 1.pdf for more information regarding the problem. 
+1. The problem is related to a special palindrome configuration. Refer to Day9/Problem 1.pdf for more information regarding the problem. 
 
-2. The problem is related to find the numebr of characters we need to delete to make two strings anagram.  Refer to Day9/Problem 2.pdf for detailed information. 
+2. The problem is related to find the number of characters we need to delete to make two strings anagram.  Refer to Day9/Problem 2.pdf for detailed information. 
 
 
 ## Day 10
@@ -75,3 +75,10 @@ Solved 2 coding problems from HackerRank using Python. The problems are based on
 
 2. The problem is related to find the maximum sub-array sum.  Refer to Day10/Problem 2.pdf for detailed information. 
 
+## Day 11
+Solved 2 coding problems from HackerRank using Python. 
+1. The problem is related to counting the valleys formed by the letters. Refer to Day11/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is a jumping on the clouds. Basically, it is a safe move algorithm to reach the goal from the starting point without getting stuck.  Refer to Day11/Problem 2.pdf for detailed information.
+
+3. The problem is related to find if a number is prime or not under the given time bound complexity. Refer to Day11/Problem 3.pdf for detailed information.
