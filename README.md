@@ -76,9 +76,16 @@ Solved 2 coding problems from HackerRank using Python. The problems are based on
 2. The problem is related to find the maximum sub-array sum.  Refer to Day10/Problem 2.pdf for detailed information. 
 
 ## Day 11
-Solved 2 coding problems from HackerRank using Python. 
+Solved 3 coding problems from HackerRank using Python. 
 1. The problem is related to counting the valleys formed by the letters. Refer to Day11/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is a jumping on the clouds. Basically, it is a safe move algorithm to reach the goal from the starting point without getting stuck.  Refer to Day11/Problem 2.pdf for detailed information.
 
 3. The problem is related to find if a number is prime or not under the given time bound complexity. Refer to Day11/Problem 3.pdf for detailed information.
+
+## Day 12
+Solved 2 coding problems from HackerRank using Python. 
+1. The problem is related to the difference ein two timestamps. Refer to Day12/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to the iterrators and iterables. Refer to Day12/Problem 2.pdf for detailed information.
+
