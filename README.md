@@ -100,5 +100,11 @@ Solved 3 coding problems from LeetCode using Python.
 1. The problem is related to finding the minimum difference between different times availabe in the array. Refer to Day14/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to removing the duplicate contents from the list. Refer to Day14/Problem 2.pdf for detailed information.
+
 3. The problem is related to check if a number is good or not. A numebr is termed as good if the rotation of a number by 180 degrees produces a valid number. Some of them are 1,2,5,6,8,9,0. Only 3,4 and 7 are bad numbers. Refer to Day14/Problem 3.pdf for detailed explaination.
 
+## Day 15
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to finding the target sum of the quadrapules. Refer to Day15/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to the longest common prefix. Refer to Day15/Problem 2.pdf for detailed information.
