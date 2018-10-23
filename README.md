@@ -105,6 +105,12 @@ Solved 3 coding problems from LeetCode using Python.
 
 ## Day 15
 Solved 2 coding problems from LeetCode using Python. 
-1. The problem is related to finding the target sum of the quadrapules. Refer to Day15/Problem 1.pdf for more information regarding the problem. 
+1. The problem is related to find the target sum of the quadrapules. Refer to Day15/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to the longest common prefix. Refer to Day15/Problem 2.pdf for detailed information.
+
+## Day 16
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to find the largest common subsequence. Refer to Day16/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to the number of characters that need to be removed to match the string. Refer to Day16/Problem 2.pdf for detailed information.
