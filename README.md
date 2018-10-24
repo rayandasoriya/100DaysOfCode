@@ -114,3 +114,10 @@ Solved 2 coding problems from LeetCode using Python.
 1. The problem is related to find the largest common subsequence. Refer to Day16/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to the number of characters that need to be removed to match the string. Refer to Day16/Problem 2.pdf for detailed information.
+
+## Day 17
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to find the sum of a range from 2-d array. Refer to Day17/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to finding a new sub array using the defined conditions. Refer to Day17/Problem 2.pdf for detailed information.
+
