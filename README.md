@@ -121,3 +121,9 @@ Solved 2 coding problems from LeetCode using Python.
 
 2. The problem is related to finding a new sub array using the defined conditions. Refer to Day17/Problem 2.pdf for detailed information.
 
+## Day 18
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to find exclusive range of logs bwtween the given time range. Refer to Day18/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to find the minimum sum for traversing from top left to bottom right of a 2-d array. Refer to Day18/Problem 2.pdf for detailed information.
+
