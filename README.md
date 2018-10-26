@@ -127,3 +127,9 @@ Solved 2 coding problems from LeetCode using Python.
 
 2. The problem is related to find the minimum sum for traversing from top left to bottom right of a 2-d array. Refer to Day18/Problem 2.pdf for detailed information.
 
+## Day 19
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to printing the zig-zag pattern of an array. Refer to Day19/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to plalce the adjacent numbers together. Refer to Day19/Problem 2.pdf for detailed information.
+
