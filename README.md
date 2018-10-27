@@ -85,27 +85,27 @@ Solved 3 coding problems from HackerRank using Python.
 
 ## Day 12
 Solved 2 coding problems from HackerRank using Python. 
-1. The problem is related to the difference ein two timestamps. Refer to Day12/Problem 1.pdf for more information regarding the problem. 
+1. The problem is related to the difference in two timestamps. Refer to Day12/Problem 1.pdf for more information regarding the problem. 
 
-2. The problem is related to the iterrators and iterables. Refer to Day12/Problem 2.pdf for detailed information.
+2. The problem is related to the iterators and iterables. Refer to Day12/Problem 2.pdf for detailed information.
 
 ## Day 13
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to the conversion of a string to an integer under special circumstances. Refer to Day13/Problem 1.pdf for more information regarding the problem. 
 
-2. The problem is related to flipping of arrays by random number. Refer to Day13/Problem 2.pdf for detailed information.
+2. The problem is related to the flipping of arrays by random number. Refer to Day13/Problem 2.pdf for detailed information.
 
 ## Day 14
 Solved 3 coding problems from LeetCode using Python. 
-1. The problem is related to finding the minimum difference between different times availabe in the array. Refer to Day14/Problem 1.pdf for more information regarding the problem. 
+1. The problem is related to finding the minimum difference between different times available in the array. Refer to Day14/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to removing the duplicate contents from the list. Refer to Day14/Problem 2.pdf for detailed information.
 
-3. The problem is related to check if a number is good or not. A numebr is termed as good if the rotation of a number by 180 degrees produces a valid number. Some of them are 1,2,5,6,8,9,0. Only 3,4 and 7 are bad numbers. Refer to Day14/Problem 3.pdf for detailed explaination.
+3. The problem is related to check if a number is good or not. A number is termed as good if the rotation of a number by 180 degrees produces a valid number. Some of them are 1,2,5,6,8,9,0. Only 3,4 and 7 are bad numbers. Refer to Day14/Problem 3.pdf for a detailed explanation.
 
 ## Day 15
 Solved 2 coding problems from LeetCode using Python. 
-1. The problem is related to find the target sum of the quadrapules. Refer to Day15/Problem 1.pdf for more information regarding the problem. 
+1. The problem is related to find the target sum of the quadruples. Refer to Day15/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to the longest common prefix. Refer to Day15/Problem 2.pdf for detailed information.
 
@@ -117,13 +117,13 @@ Solved 2 coding problems from LeetCode using Python.
 
 ## Day 17
 Solved 2 coding problems from LeetCode using Python. 
-1. The problem is related to find the sum of a range from 2-d array. Refer to Day17/Problem 1.pdf for more information regarding the problem. 
+1. The problem is related to find the sum of a range from a 2-d array. Refer to Day17/Problem 1.pdf for more information regarding the problem. 
 
-2. The problem is related to finding a new sub array using the defined conditions. Refer to Day17/Problem 2.pdf for detailed information.
+2. The problem is related to finding a new sub-array using the defined conditions. Refer to Day17/Problem 2.pdf for detailed information.
 
 ## Day 18
 Solved 2 coding problems from LeetCode using Python. 
-1. The problem is related to find exclusive range of logs bwtween the given time range. Refer to Day18/Problem 1.pdf for more information regarding the problem. 
+1. The problem is related to find an exclusive range of logs between the given time range. Refer to Day18/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to find the minimum sum for traversing from top left to bottom right of a 2-d array. Refer to Day18/Problem 2.pdf for detailed information.
 
@@ -131,5 +131,12 @@ Solved 2 coding problems from LeetCode using Python.
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to printing the zig-zag pattern of an array. Refer to Day19/Problem 1.pdf for more information regarding the problem. 
 
-2. The problem is related to plalce the adjacent numbers together. Refer to Day19/Problem 2.pdf for detailed information.
+2. The problem is related to place the adjacent numbers together. Refer to Day19/Problem 2.pdf for detailed information.
 
+## Day 20
+Solved 3 coding problems from LeetCode using Python. 
+1. The problem is related to the multiplication of two strings. Refer to Day20/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to the valid position movement of a robot in a 2-d matrix. Refer to Day20/Problem 2.pdf for detailed information.
+
+3. The problem is related to the card game 21. Refer to Day20/Problem 3.pdf for more information regarding the problem. 
