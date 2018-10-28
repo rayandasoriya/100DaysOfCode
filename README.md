@@ -140,3 +140,19 @@ Solved 3 coding problems from LeetCode using Python.
 2. The problem is related to the valid position movement of a robot in a 2-d matrix. Refer to Day20/Problem 2.pdf for detailed information.
 
 3. The problem is related to the card game 21. Refer to Day20/Problem 3.pdf for more information regarding the problem. 
+
+
+## Day 20
+Solved 3 coding problems from LeetCode using Python. 
+1. The problem is related to the multiplication of two strings. Refer to Day20/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to the valid position movement of a robot in a 2-d matrix. Refer to Day20/Problem 2.pdf for detailed information.
+
+3. The problem is related to the card game 21. Refer to Day20/Problem 3.pdf for more information regarding the problem. 
+
+
+## Day 21
+Solved 2 coding problems from HackerRank using Python. 
+1. The problem is related to the Huffman Encoding. Refer to Day21/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to conversion of a string of ASCII characters to a string of characters. Refer to Day21/Problem 2.pdf for detailed information.
