@@ -156,3 +156,9 @@ Solved 2 coding problems from HackerRank using Python.
 1. The problem is related to the Huffman Encoding. Refer to Day21/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to conversion of a string of ASCII characters to a string of characters. Refer to Day21/Problem 2.pdf for detailed information.
+
+## Day 22
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to the swapping of adjacent element in Linked List. Refer to Day22/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to find the maximum profit from a share market problem. Refer to Day22/Problem 2.pdf for detailed information.
