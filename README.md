@@ -169,3 +169,9 @@ Solved 2 coding problems from LeetCode using Python.
 1. The problem is related to finding the minimum depth of a binary tree. Refer to Day23/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to find the differnet possibilities of the status of  a combination of switches. Refer to Day23/Problem 2.pdf for detailed information.
+
+## Day 23
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to find the container with most water. Refer to Day23/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to find the median of two arrays. Refer to Day23/Problem 2.pdf for detailed information.
