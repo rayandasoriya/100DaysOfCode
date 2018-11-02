@@ -181,3 +181,9 @@ Solved 2 coding problems from LeetCode using Python.
 1. The problem is related to convert an integer into it's equivalent Roman numeral. Refer to Day25/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to distribute the array into two sets of unlike elements. Refer to Day25/Problem 2.pdf for detailed information.
+
+## Day 26
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to find the possible characters while typing in a mobile phone. Refer to Day26/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to finding the length of the longest consectutive element sequence. Refer to Day26/Problem 2.pdf for detailed information.
