@@ -187,3 +187,9 @@ Solved 2 coding problems from LeetCode using Python.
 1. The problem is related to find the possible characters while typing in a mobile phone. Refer to Day26/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to finding the length of the longest consectutive element sequence. Refer to Day26/Problem 2.pdf for detailed information.
+
+## Day 27
+Solved 2 coding problems from LeetCode using Python and C++. 
+1. The problem is related to find the sum of the numbers in two linked list. Refer to Day27/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to find a valid triangle pair. Refer to Day27/Problem 2.pdf for detailed information.
