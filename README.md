@@ -193,3 +193,9 @@ Solved 2 coding problems from LeetCode using Python and C++.
 1. The problem is related to find the sum of the numbers in two linked list. Refer to Day27/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to find a valid triangle pair. Refer to Day27/Problem 2.pdf for detailed information.
+
+## Day 28
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to find the pair of 4 numbers of a particular sum. Refer to Day28/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to find the minimum sum of a falling path through A. Refer to Day28/Problem 2.pdf for detailed information.
