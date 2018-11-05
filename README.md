@@ -199,3 +199,9 @@ Solved 2 coding problems from LeetCode using Python.
 1. The problem is related to find the pair of 4 numbers of a particular sum. Refer to Day28/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to find the minimum sum of a falling path through A. Refer to Day28/Problem 2.pdf for detailed information.
+
+## Day 29
+Solved 2 coding problems from LeetCode using Java. 
+1. The problem is related to calculate the number of nodes in a complete binary tree. Refer to Day29/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to imagfind the minimume smoothening. Refer to Day29/Problem 2.pdf for detailed information.
