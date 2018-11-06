@@ -155,11 +155,11 @@ Solved 3 coding problems from LeetCode using Python.
 Solved 2 coding problems from HackerRank using Python. 
 1. The problem is related to the Huffman Encoding. Refer to Day21/Problem 1.pdf for more information regarding the problem. 
 
-2. The problem is related to conversion of a string of ASCII characters to a string of characters. Refer to Day21/Problem 2.pdf for detailed information.
+2. The problem is related to the conversion of a string of ASCII characters to a string of characters. Refer to Day21/Problem 2.pdf for detailed information.
 
 ## Day 22
 Solved 2 coding problems from LeetCode using Python. 
-1. The problem is related to the swapping of adjacent element in Linked List. Refer to Day22/Problem 1.pdf for more information regarding the problem. 
+1. The problem is related to the swapping of an adjacent element in Linked List. Refer to Day22/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to find the maximum profit from a share market problem. Refer to Day22/Problem 2.pdf for detailed information.
 
@@ -168,7 +168,7 @@ Solved 2 coding problems from LeetCode using Python.
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to finding the minimum depth of a binary tree. Refer to Day23/Problem 1.pdf for more information regarding the problem. 
 
-2. The problem is related to find the differnet possibilities of the status of  a combination of switches. Refer to Day23/Problem 2.pdf for detailed information.
+2. The problem is related to find the different possibilities of the status of a combination of switches. Refer to Day23/Problem 2.pdf for detailed information.
 
 ## Day 24
 Solved 2 coding problems from LeetCode using Python. 
@@ -178,15 +178,15 @@ Solved 2 coding problems from LeetCode using Python.
 
 ## Day 25
 Solved 2 coding problems from LeetCode using Python. 
-1. The problem is related to convert an integer into it's equivalent Roman numeral. Refer to Day25/Problem 1.pdf for more information regarding the problem. 
+1. The problem is related to convert an integer into its equivalent Roman numeral. Refer to Day25/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to distribute the array into two sets of unlike elements. Refer to Day25/Problem 2.pdf for detailed information.
 
 ## Day 26
 Solved 2 coding problems from LeetCode using Python. 
-1. The problem is related to find the possible characters while typing in a mobile phone. Refer to Day26/Problem 1.pdf for more information regarding the problem. 
+1. The problem is related to find the possible characters while typing on a mobile phone. Refer to Day26/Problem 1.pdf for more information regarding the problem. 
 
-2. The problem is related to finding the length of the longest consectutive element sequence. Refer to Day26/Problem 2.pdf for detailed information.
+2. The problem is related to finding the length of the longest consecutive element sequence. Refer to Day26/Problem 2.pdf for detailed information.
 
 ## Day 27
 Solved 2 coding problems from LeetCode using Python and C++. 
@@ -204,4 +204,10 @@ Solved 2 coding problems from LeetCode using Python.
 Solved 2 coding problems from LeetCode using Java. 
 1. The problem is related to calculate the number of nodes in a complete binary tree. Refer to Day29/Problem 1.pdf for more information regarding the problem. 
 
-2. The problem is related to imagfind the minimume smoothening. Refer to Day29/Problem 2.pdf for detailed information.
+2. The problem is related to the smoothening of an image. Refer to Day29/Problem 2.pdf for detailed information.
+
+## Day 30
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to finding the longest palindrome in a string. Refer to Day30/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to some operations of partitioning of a string. Refer to Day30/Problem 2.pdf for detailed information.
