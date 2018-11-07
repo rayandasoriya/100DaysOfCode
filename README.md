@@ -211,3 +211,10 @@ Solved 2 coding problems from LeetCode using Python.
 1. The problem is related to finding the longest palindrome in a string. Refer to Day30/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to some operations of partitioning of a string. Refer to Day30/Problem 2.pdf for detailed information.
+
+
+## Day 31
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to printing some elements in a fashionable way. Refer to Day31/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to search in a rotated sorted array. Refer to Day31/Problem 2.pdf for detailed information.
