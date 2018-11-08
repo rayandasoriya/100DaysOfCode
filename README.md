@@ -218,3 +218,10 @@ Solved 2 coding problems from LeetCode using Python.
 1. The problem is related to printing some elements in a fashionable way. Refer to Day31/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to search in a rotated sorted array. Refer to Day31/Problem 2.pdf for detailed information.
+
+## Day 32
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to remove the duplicates in-place such that each element appear only once and return the new length. Refer to Day32/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to insert a new interval into the intervals. Refer to Day32/Problem 2.pdf for detailed information.
+
