@@ -225,3 +225,10 @@ Solved 2 coding problems from LeetCode using Python.
 
 2. The problem is related to insert a new interval into the intervals. Refer to Day32/Problem 2.pdf for detailed information.
 
+## Day 33
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to finding the number of decoded ways of a string. Refer to Day33/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to finding the surrounded regions. Refer to Day33/Problem 2.pdf for detailed information.
+
+
