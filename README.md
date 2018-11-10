@@ -232,3 +232,10 @@ Solved 2 coding problems from LeetCode using Python.
 2. The problem is related to finding the surrounded regions. Refer to Day33/Problem 2.pdf for detailed information.
 
 
+## Day 34
+Solved 2 coding problems from GeeksForGeeks using Python. 
+1. The problem is related to finding the maximum profit by buying and selling a share at most twice. Refer to Day34/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to finding the Longest Common Substring. Refer to Day34/Problem 2.pdf for detailed information.
+
+
