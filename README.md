@@ -142,15 +142,6 @@ Solved 3 coding problems from LeetCode using Python.
 3. The problem is related to the card game 21. Refer to Day20/Problem 3.pdf for more information regarding the problem. 
 
 
-## Day 20
-Solved 3 coding problems from LeetCode using Python. 
-1. The problem is related to the multiplication of two strings. Refer to Day20/Problem 1.pdf for more information regarding the problem. 
-
-2. The problem is related to the valid position movement of a robot in a 2-d matrix. Refer to Day20/Problem 2.pdf for detailed information.
-
-3. The problem is related to the card game 21. Refer to Day20/Problem 3.pdf for more information regarding the problem. 
-
-
 ## Day 21
 Solved 2 coding problems from HackerRank using Python. 
 1. The problem is related to the Huffman Encoding. Refer to Day21/Problem 1.pdf for more information regarding the problem. 
@@ -237,5 +228,12 @@ Solved 2 coding problems from GeeksForGeeks using Python.
 1. The problem is related to finding the maximum profit by buying and selling a share at most twice. Refer to Day34/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to finding the Longest Common Substring. Refer to Day34/Problem 2.pdf for detailed information.
+
+
+## Day 35
+Solved 2 coding problems from GeeksForGeeks using Python. 
+1. The problem is related to finding the pairs which makes the sum equal to 0. Refer to Day35/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to check if the binary tree is symmetric around the root. Refer to Day35/Problem 2.pdf for detailed information.
 
 
