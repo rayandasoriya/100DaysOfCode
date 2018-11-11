@@ -231,7 +231,7 @@ Solved 2 coding problems from GeeksForGeeks using Python.
 
 
 ## Day 35
-Solved 2 coding problems from GeeksForGeeks using Python. 
+Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to finding the pairs which makes the sum equal to 0. Refer to Day35/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to check if the binary tree is symmetric around the root. Refer to Day35/Problem 2.pdf for detailed information.
