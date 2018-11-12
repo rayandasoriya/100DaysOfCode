@@ -236,4 +236,11 @@ Solved 2 coding problems from LeetCode using Python.
 
 2. The problem is related to check if the binary tree is symmetric around the root. Refer to Day35/Problem 2.pdf for detailed information.
 
+## Day 36
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to count the number of distinct, non-empty subsequences of S. Refer to Day36/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to find the longest palindromic subsequence. Refer to Day36/Problem 2.pdf for detailed information.
+
+
 
