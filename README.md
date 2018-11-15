@@ -255,3 +255,9 @@ Solved 2 coding problems from LeetCode using Python.
 1. The problem is related to convert the sorted array into binary search tree. Refer to Day38/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to find the degree of an array. Refer to Day38/Problem 2.pdf for detailed information.
+
+## Day 39
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to reshaping a matrix. Refer to Day39/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to check if two binary trees are same. Refer to Day39/Problem 2.pdf for detailed information.
