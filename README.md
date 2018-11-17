@@ -267,3 +267,9 @@ Solved 2 coding problems from LeetCode using Python.
 1. The problem is related to searching a word in the grid. Refer to Day40/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to returning the maximum product after breaking it into the sum of at least two positive integers. Refer to Day40/Problem 2.pdf for detailed information.
+
+## Day 41
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to finding the subsets of all the array. Refer to Day41/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to shiftwing the letters by a particular fashion. Refer to Day41/Problem 2.pdf for detailed information.
