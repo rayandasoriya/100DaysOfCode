@@ -273,3 +273,8 @@ Solved 2 coding problems from LeetCode using Python.
 1. The problem is related to finding the subsets of all the array. Refer to Day41/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to shiftwing the letters by a particular fashion. Refer to Day41/Problem 2.pdf for detailed information.
+
+
+## Day 42
+Solved 1 coding problems from LeetCode using Python. 
+1. The problem is related to finding the possible permuations of a list. Refer to Day42/Problem 1.pdf for more information regarding the problem. 
