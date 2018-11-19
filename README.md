@@ -212,7 +212,7 @@ Solved 2 coding problems from LeetCode using Python.
 
 ## Day 32
 Solved 2 coding problems from LeetCode using Python. 
-1. The problem is related to remove the duplicates in-place such that each element appear only once and return the new length. Refer to Day32/Problem 1.pdf for more information regarding the problem. 
+1. The problem is related to remove the duplicates in-place such that each element appears only once and return the new length. Refer to Day32/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to insert a new interval into the intervals. Refer to Day32/Problem 2.pdf for detailed information.
 
@@ -232,7 +232,7 @@ Solved 2 coding problems from GeeksForGeeks using Python.
 
 ## Day 35
 Solved 2 coding problems from LeetCode using Python. 
-1. The problem is related to finding the pairs which makes the sum equal to 0. Refer to Day35/Problem 1.pdf for more information regarding the problem. 
+1. The problem is related to finding the pairs which make the sum equal to 0. Refer to Day35/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to check if the binary tree is symmetric around the root. Refer to Day35/Problem 2.pdf for detailed information.
 
@@ -246,13 +246,13 @@ Solved 2 coding problems from LeetCode using Python.
 
 ## Day 37
 Solved 2 coding problems from LeetCode using Python. 
-1. The problem is related to find the length of longest increasing subsequence. Refer to Day37/Problem 1.pdf for more information regarding the problem. 
+1. The problem is related to find the length of the longest increasing subsequence. Refer to Day37/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to check if it can be constructed by taking a substring of it and appending multiple copies of the substring together. Refer to Day37/Problem 2.pdf for detailed information.
 
 ## Day 38
 Solved 2 coding problems from LeetCode using Python. 
-1. The problem is related to convert the sorted array into binary search tree. Refer to Day38/Problem 1.pdf for more information regarding the problem. 
+1. The problem is related to convert the sorted array into a binary search tree. Refer to Day38/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to find the degree of an array. Refer to Day38/Problem 2.pdf for detailed information.
 
@@ -272,9 +272,15 @@ Solved 2 coding problems from LeetCode using Python.
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to finding the subsets of all the array. Refer to Day41/Problem 1.pdf for more information regarding the problem. 
 
-2. The problem is related to shiftwing the letters by a particular fashion. Refer to Day41/Problem 2.pdf for detailed information.
+2. The problem is related to shifting the letters by a particular fashion. Refer to Day41/Problem 2.pdf for detailed information.
 
 
 ## Day 42
-Solved 1 coding problems from LeetCode using Python. 
-1. The problem is related to finding the possible permuations of a list. Refer to Day42/Problem 1.pdf for more information regarding the problem. 
+Solved 1 coding problem from LeetCode using Python. 
+1. The problem is related to finding the possible permutations of a list. Refer to Day42/Problem 1.pdf for more information regarding the problem. 
+
+## Day 43
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to finding the minimum deletions required to sort an array. Refer to Day43/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to finding the biggest plus sign in the given pattern. Refer to Day43/Problem 2.pdf for detailed information.
