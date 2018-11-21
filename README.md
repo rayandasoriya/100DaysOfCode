@@ -284,3 +284,7 @@ Solved 2 coding problems from LeetCode using Python.
 1. The problem is related to finding the minimum deletions required to sort an array. Refer to Day43/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to finding the biggest plus sign in the given pattern. Refer to Day43/Problem 2.pdf for detailed information.
+
+## Day 44
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to designing a data structure which will perform specific solutions. Refer to Day43/Problem 1.pdf for more information regarding the problem. 
