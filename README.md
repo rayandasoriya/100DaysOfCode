@@ -294,7 +294,11 @@ Solved 1 coding problem from LeetCode using Python.
 1. The problem is related to Populating Next Right Pointers in Each Node . Refer to Day45/Problem 1.pdf for more information regarding the problem. 
 
 ## Day 46
-Solved 2 coding problem from LeetCode using Python. 
+Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to finding the total hamming distance. Refer to Day46/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to partitioning the array into equal k sets. Refer to Day46/Problem 2.pdf for detailed information.
+
+## Day 47
+Solved 1 coding problem from HackerRank using Python. 
+1. The problem is related to finding all the possible triplets. Refer to Day47/Problem 1.pdf for more information regarding the problem. 
