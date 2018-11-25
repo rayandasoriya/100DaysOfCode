@@ -291,7 +291,7 @@ Solved 1 coding problem from LeetCode using Python.
 
 ## Day 45
 Solved 1 coding problem from LeetCode using Python. 
-1. The problem is related to Populating Next Right Pointers in Each Node . Refer to Day45/Problem 1.pdf for more information regarding the problem. 
+1. The problem is related to Populating Next Right Pointers in Each Node. Refer to Day45/Problem 1.pdf for more information regarding the problem. 
 
 ## Day 46
 Solved 2 coding problems from LeetCode using Python. 
@@ -306,3 +306,9 @@ Solved 1 coding problem from HackerRank using Python.
 ## Day 48
 Solved 1 coding problem from LeetCode using Python. 
 1. The problem is related to cloning a graph. Refer to Day48/Problem 1.pdf for more information regarding the problem. 
+
+## Day 49
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to returning the triplets under certain condition. Refer to Day49/Problem 1.pdf for more information regarding the problem. 
+
+2. The problem is related to computing the h-index of the researcher. Refer to Day49/Problem 2.pdf for detailed information.
