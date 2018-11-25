@@ -302,3 +302,7 @@ Solved 2 coding problems from LeetCode using Python.
 ## Day 47
 Solved 1 coding problem from HackerRank using Python. 
 1. The problem is related to finding all the possible triplets. Refer to Day47/Problem 1.pdf for more information regarding the problem. 
+
+## Day 48
+Solved 1 coding problem from LeetCode using Python. 
+1. The problem is related to cloning a graph. Refer to Day48/Problem 1.pdf for more information regarding the problem. 
