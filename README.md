@@ -312,3 +312,8 @@ Solved 2 coding problems from LeetCode using Python.
 1. The problem is related to returning the triplets under certain condition. Refer to Day49/Problem 1.pdf for more information regarding the problem. 
 
 2. The problem is related to computing the h-index of the researcher. Refer to Day49/Problem 2.pdf for detailed information.
+
+## Day 50
+Solved 1 coding problem from LeetCode using Python. 
+1. The problem is related to returning the quotient when divident and divisor is given. Refer to Day50/Problem 1.pdf for more information regarding the problem. 
+
