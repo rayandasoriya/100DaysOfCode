@@ -317,3 +317,7 @@ Solved 2 coding problems from LeetCode using Python.
 Solved 1 coding problem from LeetCode using Python. 
 1. The problem is related to returning the quotient when divident and divisor is given. Refer to Day50/Problem 1.pdf for more information regarding the problem. 
 
+## Day 51
+Solved 1 coding problem from LeetCode using Python. 
+1. The problem is related to returning the maximum points accumulated after palying the number of tokens game. Refer to Day51/Problem 1.pdf for more information regarding the problem. 
+
