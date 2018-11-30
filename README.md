@@ -325,3 +325,7 @@ Solved 1 coding problem from LeetCode using Python.
 Solved 1 coding problem from LeetCode using Python. 
 1. The problem is related to returning the least number of moves to make every value in A unique. Refer to Day52/Problem 1.pdf for more information regarding the problem. 
 
+## Day 53
+Solved 1 coding problem from LeetCode using Python. 
+1. The problem is related to return whether an increasing subsequence of length 3 exists or not in the array. Refer to Day53/Problem 1.pdf for more information regarding the problem. 
+
