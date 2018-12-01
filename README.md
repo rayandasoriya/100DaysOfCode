@@ -329,3 +329,6 @@ Solved 1 coding problem from LeetCode using Python.
 Solved 1 coding problem from LeetCode using Python. 
 1. The problem is related to return whether an increasing subsequence of length 3 exists or not in the array. Refer to Day53/Problem 1.pdf for more information regarding the problem. 
 
+## Day 54
+Solved 1 coding problem from LeetCode using Python. 
+1. The problem is related to return the new array by modifying it with the underlying constraints. Refer to Day53/Problem 1.pdf for more information regarding the problem. 
