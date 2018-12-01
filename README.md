@@ -332,3 +332,8 @@ Solved 1 coding problem from LeetCode using Python.
 ## Day 54
 Solved 1 coding problem from LeetCode using Python. 
 1. The problem is related to return the new array by modifying it with the underlying constraints. Refer to Day53/Problem 1.pdf for more information regarding the problem. 
+
+## Day 55
+Solved 1 coding problem from LeetCode using Python. 
+1. The problem is related to find the product of an array except self. Refer to Day55/Problem 1.pdf for more information regarding the problem. 
+2. The problem is related to find the maximum value of length where the two words do not share common letters. Refer to Day55/Problem 2.pdf for detailed information.
