@@ -315,11 +315,11 @@ Solved 2 coding problems from LeetCode using Python.
 
 ## Day 50
 Solved 1 coding problem from LeetCode using Python. 
-1. The problem is related to returning the quotient when divident and divisor is given. Refer to Day50/Problem 1.pdf for more information regarding the problem. 
+1. The problem is related to returning the quotient when dividend and divisor is given. Refer to Day50/Problem 1.pdf for more information regarding the problem. 
 
 ## Day 51
 Solved 1 coding problem from LeetCode using Python. 
-1. The problem is related to returning the maximum points accumulated after palying the number of tokens game. Refer to Day51/Problem 1.pdf for more information regarding the problem. 
+1. The problem is related to returning the maximum points accumulated after playing the number of tokens game. Refer to Day51/Problem 1.pdf for more information regarding the problem. 
 
 ## Day 52
 Solved 1 coding problem from LeetCode using Python. 
@@ -334,6 +334,11 @@ Solved 1 coding problem from LeetCode using Python.
 1. The problem is related to return the new array by modifying it with the underlying constraints. Refer to Day53/Problem 1.pdf for more information regarding the problem. 
 
 ## Day 55
-Solved 1 coding problem from LeetCode using Python. 
-1. The problem is related to find the product of an array except self. Refer to Day55/Problem 1.pdf for more information regarding the problem. 
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to find the product of an array except for self. Refer to Day55/Problem 1.pdf for more information regarding the problem. 
 2. The problem is related to find the maximum value of length where the two words do not share common letters. Refer to Day55/Problem 2.pdf for detailed information.
+
+## Day 56
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to counting the number of times that the ball will move out of the grid. Refer to Day56/Problem 1.pdf for more information regarding the problem. 
+2. The problem is related to find if the cards can be rearranged into a group of consecutive numbers. Refer to Day56/Problem 2.pdf for detailed information.
