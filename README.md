@@ -345,5 +345,5 @@ Solved 2 coding problems from LeetCode using Python.
 
 ## Day 57
 Solved 2 coding problems from LeetCode using Python. 
-1. The problem is related to find the self-dividing number within a range. Refer to Day57/Problem 1.pdf for more information regarding the problem. 
-2. The problem is related to write a class RecentCounter to count recent requests. Refer to Day57/Problem 2.pdf for detailed information.
+1. The problem is related to return the complement of the number. Refer to Day58/Problem 1.pdf for more information regarding the problem. 
+2. The problem is related to find the largest palindrome product. Refer to Day58/Problem 2.pdf for detailed information.
