@@ -355,5 +355,11 @@ Solved 2 coding problems from LeetCode using Python.
 
 ## Day 59
 Solved 2 coding problems from LeetCode using Python. 
-1. The problem is related to return the return the words that can be typed using letters of alphabet on only one row's of American keyboard. Refer to Day59/Problem 1.pdf for more information regarding the problem. 
+1. The problem is related to return the words that can be typed using letters of alphabet on only one row's of American keyboard. Refer to Day59/Problem 1.pdf for more information regarding the problem. 
 2. The problem is related to fetch the index of the largest string. Refer to Day59/Problem 2.pdf for detailed information.
+
+## Day 60
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to return the pivot index of an array. Refer to Day60/Problem 1.pdf for more information regarding the problem. 
+2. The problem is to return an array consisting of all the even elements of A, followed by all the odd elements of A. Refer to Day60/Problem 2.pdf for detailed information.
+3. The problem is related to return the return the element which occusrs only once in an array. Refer to Day60/Problem 3.pdf for more information regarding the problem. 
