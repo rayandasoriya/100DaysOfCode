@@ -345,5 +345,15 @@ Solved 2 coding problems from LeetCode using Python.
 
 ## Day 57
 Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to return the self-dividing numbers. Refer to Day57/Problem 1.pdf for more information regarding the problem. 
+2. The problem is related to count the numebr of reqeusts given a particular input. Refer to Day57/Problem 2.pdf for detailed information.
+
+## Day 58
+Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to return the complement of the number. Refer to Day58/Problem 1.pdf for more information regarding the problem. 
 2. The problem is related to find the largest palindrome product. Refer to Day58/Problem 2.pdf for detailed information.
+
+## Day 59
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to return the return the words that can be typed using letters of alphabet on only one row's of American keyboard. Refer to Day59/Problem 1.pdf for more information regarding the problem. 
+2. The problem is related to fetch the index of the largest string. Refer to Day59/Problem 2.pdf for detailed information.
