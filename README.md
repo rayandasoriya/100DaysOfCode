@@ -368,3 +368,8 @@ Solved 3 coding problems from LeetCode using Python.
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to return the middle name pivot index of an array. Refer to Day61/Problem 1.pdf for more information regarding the problem. 
 2. The problem is to return the largest 24 hour time that can be made. Refer to Day61/Problem 2.pdf for detailed information. 
+
+## Day 62
+Solved 2 coding problems from LeetCode and GfG using Python. 
+1. The problem is related to making two strings anagrams. Refer to Day62/Problem 1.pdf for more information regarding the problem. 
+2. The problem is to return a fair candy swap probability. Refer to Day62/Problem 2.pdf for detailed information. 
