@@ -359,7 +359,12 @@ Solved 2 coding problems from LeetCode using Python.
 2. The problem is related to fetch the index of the largest string. Refer to Day59/Problem 2.pdf for detailed information.
 
 ## Day 60
-Solved 2 coding problems from LeetCode using Python. 
+Solved 3 coding problems from LeetCode using Python. 
 1. The problem is related to return the pivot index of an array. Refer to Day60/Problem 1.pdf for more information regarding the problem. 
 2. The problem is to return an array consisting of all the even elements of A, followed by all the odd elements of A. Refer to Day60/Problem 2.pdf for detailed information.
 3. The problem is related to return the return the element which occusrs only once in an array. Refer to Day60/Problem 3.pdf for more information regarding the problem. 
+
+## Day 61
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to return the middle name pivot index of an array. Refer to Day61/Problem 1.pdf for more information regarding the problem. 
+2. The problem is to return the largest 24 hour time that can be made. Refer to Day61/Problem 2.pdf for detailed information. 
