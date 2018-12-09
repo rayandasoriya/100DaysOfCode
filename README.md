@@ -315,7 +315,7 @@ Solved 2 coding problems from LeetCode using Python.
 
 ## Day 50
 Solved 1 coding problem from LeetCode using Python. 
-1. The problem is related to returning the quotient when dividend and divisor is given. Refer to Day50/Problem 1.pdf for more information regarding the problem. 
+1. The problem is related to returning the quotient when dividend and divisor are given. Refer to Day50/Problem 1.pdf for more information regarding the problem. 
 
 ## Day 51
 Solved 1 coding problem from LeetCode using Python. 
@@ -346,7 +346,7 @@ Solved 2 coding problems from LeetCode using Python.
 ## Day 57
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to return the self-dividing numbers. Refer to Day57/Problem 1.pdf for more information regarding the problem. 
-2. The problem is related to count the numebr of reqeusts given a particular input. Refer to Day57/Problem 2.pdf for detailed information.
+2. The problem is related to count the number of requests given a particular input. Refer to Day57/Problem 2.pdf for detailed information.
 
 ## Day 58
 Solved 2 coding problems from LeetCode using Python. 
@@ -355,14 +355,14 @@ Solved 2 coding problems from LeetCode using Python.
 
 ## Day 59
 Solved 2 coding problems from LeetCode using Python. 
-1. The problem is related to return the words that can be typed using letters of alphabet on only one row's of American keyboard. Refer to Day59/Problem 1.pdf for more information regarding the problem. 
+1. The problem is related to return the words that can be typed using letters of the alphabet on only one rows of American keyboard. Refer to Day59/Problem 1.pdf for more information regarding the problem. 
 2. The problem is related to fetch the index of the largest string. Refer to Day59/Problem 2.pdf for detailed information.
 
 ## Day 60
 Solved 3 coding problems from LeetCode using Python. 
 1. The problem is related to return the pivot index of an array. Refer to Day60/Problem 1.pdf for more information regarding the problem. 
 2. The problem is to return an array consisting of all the even elements of A, followed by all the odd elements of A. Refer to Day60/Problem 2.pdf for detailed information.
-3. The problem is related to return the return the element which occusrs only once in an array. Refer to Day60/Problem 3.pdf for more information regarding the problem. 
+3. The problem is related to return the return the element which occurs only once in an array. Refer to Day60/Problem 3.pdf for more information regarding the problem. 
 
 ## Day 61
 Solved 2 coding problems from LeetCode using Python. 
@@ -373,3 +373,8 @@ Solved 2 coding problems from LeetCode using Python.
 Solved 2 coding problems from LeetCode and GfG using Python. 
 1. The problem is related to making two strings anagrams. Refer to Day62/Problem 1.pdf for more information regarding the problem. 
 2. The problem is to return a fair candy swap probability. Refer to Day62/Problem 2.pdf for detailed information. 
+
+## Day 63
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to find the maximum area of an island in the given 2D array. Refer to Day63/Problem 1.pdf for more information regarding the problem. 
+2. The problem is to return the preorder traversal of a tree. Refer to Day63/Problem 2.pdf for detailed information. 
