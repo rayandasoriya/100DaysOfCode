@@ -378,3 +378,8 @@ Solved 2 coding problems from LeetCode and GfG using Python.
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to find the maximum area of an island in the given 2D array. Refer to Day63/Problem 1.pdf for more information regarding the problem. 
 2. The problem is to return the preorder traversal of a tree. Refer to Day63/Problem 2.pdf for detailed information. 
+
+## Day 64
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to find the least number of perfect square numbers. Refer to Day64/Problem 1.pdf for more information regarding the problem. 
+2. The problem is to finding the area of rectangles. Refer to Day64/Problem 2.pdf for detailed information. 
