@@ -388,3 +388,8 @@ Solved 2 coding problems from LeetCode using Python.
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to retrun the permutation of DI String case. Refer to Day65/Problem 1.pdf for more information regarding the problem. 
 2. The problem is to verify the lexiccographical order from the alien dictionary. Refer to Day65/Problem 2.pdf for detailed information. 
+
+## Day 66
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to find the grey code. Refer to Day66/Problem 1.pdf for more information regarding the problem. 
+2. The problem is to return the ordering of courses you should take to finish all courses. Refer to Day66/Problem 2.pdf for detailed information. 
