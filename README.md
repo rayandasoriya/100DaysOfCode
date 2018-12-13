@@ -393,3 +393,8 @@ Solved 2 coding problems from LeetCode using Python.
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to find the grey code. Refer to Day66/Problem 1.pdf for more information regarding the problem. 
 2. The problem is to return the ordering of courses you should take to finish all courses. Refer to Day66/Problem 2.pdf for detailed information. 
+
+## Day 67
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to return the difference between two strings Refer to Day67/Problem 1.pdf for more information regarding the problem. 
+2. The problem is to print the first bad version. Refer to Day67/Problem 2.pdf for detailed information. 
