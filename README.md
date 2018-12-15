@@ -401,5 +401,10 @@ Solved 2 coding problems from LeetCode using Python.
 
 ## Day 68
 Solved 2 coding problems from LeetCode using Python. 
-1. The problem is related to return the nukber which is present only once. Refer to Day68/Problem 1.pdf for more information regarding the problem. 
+1. The problem is related to return the number which is present only once. Refer to Day68/Problem 1.pdf for more information regarding the problem. 
 2. The problem is to check if it is a perfect number. Refer to Day68/Problem 2.pdf for detailed information. 
+
+## Day 69
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to the rotated array by k-factor. Refer to Day69/Problem 1.pdf for more information regarding the problem. 
+2. The problem is to return a list of uniques permutations of an array. Refer to Day69/Problem 2.pdf for detailed information. 
