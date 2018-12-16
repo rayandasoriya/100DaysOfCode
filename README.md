@@ -408,3 +408,7 @@ Solved 2 coding problems from LeetCode using Python.
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to the rotated array by k-factor. Refer to Day69/Problem 1.pdf for more information regarding the problem. 
 2. The problem is to return a list of uniques permutations of an array. Refer to Day69/Problem 2.pdf for detailed information. 
+
+## Day 70
+Solved 1 coding problem from LeetCode using Python. 
+1. The problem is related to return the array by increasing the value of resultant array by 1. Refer to Day70/Problem 1.pdf for more information regarding the problem.  
