@@ -412,3 +412,7 @@ Solved 2 coding problems from LeetCode using Python.
 ## Day 70
 Solved 1 coding problem from LeetCode using Python. 
 1. The problem is related to return the array by increasing the value of resultant array by 1. Refer to Day70/Problem 1.pdf for more information regarding the problem.  
+
+## Day 71
+Solved 1 coding problem from LeetCode using Python. 
+1. The problem is related to check the completeness of a binary tree. Refer to Day71/Problem 1.pdf for more information regarding the problem.  
