@@ -420,3 +420,7 @@ Solved 1 coding problem from LeetCode using Python.
 ## Day 72
 Solved 1 coding problem from LeetCode using Python. 
 1. The problem is related to find the largest number that can be generated using the combination of an array. Refer to Day72/Problem 1.pdf for more information regarding the problem.  
+
+## Day 73
+Solved 1 coding problem from LeetCode using Python. 
+1. The problem is related to return the maximum depth of a binary tree. Refer to Day73/Problem 1.pdf for more information regarding the problem.  
