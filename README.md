@@ -424,3 +424,8 @@ Solved 1 coding problem from LeetCode using Python.
 ## Day 73
 Solved 1 coding problem from LeetCode using Python. 
 1. The problem is related to return the maximum depth of a binary tree. Refer to Day73/Problem 1.pdf for more information regarding the problem.  
+
+## Day 74
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to generate all combinations of well-formed parentheses. Refer to Day74/Problem 1.pdf for more information regarding the problem. 
+2. The problem is to find all the possible combinations of an array which produces a particular sum. Refer to Day74/Problem 2.pdf for detailed information. 
