@@ -434,3 +434,8 @@ Solved 2 coding problems from LeetCode using Python.
 Solved 2 coding problems from HackerRank using Python. 
 1. The problem is related to return the number of distinct triplets that can be formed from the given arrays. Refer to Day75/Problem 1.pdf for more information regarding the problem. 
 2. The problem is to find the longest palindromic subsequence's length. Refer to Day75/Problem 2.pdf for detailed information. 
+
+## Day 76
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to return the value of the BST node whose value is equal to the value of the root node. Refer to Day76/Problem 1.pdf for more information regarding the problem. 
+2. The problem is to move all 0's to the end of it while maintaining the relative order of the non-zero elements. Refer to Day76/Problem 2.pdf for detailed information. 
