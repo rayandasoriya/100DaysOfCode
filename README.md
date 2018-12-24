@@ -443,3 +443,9 @@ Solved 2 coding problems from LeetCode using Python.
 ## Day 77
 Solved 1 coding problem from LeetCode using Python. 
 1. The problem is related to find the duplicate number in the array. Refer to Day77/Problem 1.pdf for more information regarding the problem.  
+
+## Day 78
+Solved 1 coding problem from HackerRank using Python. 
+1. The problem is related to count the number of distinct, non-empty subsequences of a string. Refer to Day78/Problem 1.pdf for more information regarding the problem.  
+
+
