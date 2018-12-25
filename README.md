@@ -448,4 +448,8 @@ Solved 1 coding problem from LeetCode using Python.
 Solved 1 coding problem from HackerRank using Python. 
 1. The problem is related to count the number of distinct, non-empty subsequences of a string. Refer to Day78/Problem 1.pdf for more information regarding the problem.  
 
+## Day 79
+Solved 1 coding problem from LeetCode using Python. 
+1. The problem is related to return the base 7 representation of a number. Refer to Day79/Problem 1.pdf for more information regarding the problem.  
+
 
