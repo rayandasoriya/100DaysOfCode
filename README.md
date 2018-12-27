@@ -455,3 +455,8 @@ Solved 1 coding problem from LeetCode using Python.
 ## Day 80
 Solved 1 coding problem from LeetCode using Python. 
 1. The problem is related to return the maximum length of an subarray that appears in both arrays. Refer to Day80/Problem 1.pdf for more information regarding the problem. 
+
+## Day 81
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to return the element repeated N times. Refer to Day81/Problem 1.pdf for more information regarding the problem. 
+2. The problem is to count the number of non-empty (contiguous) substrings that have the same number of 0's and 1's, and all the 0's and all the 1's in these substrings are grouped consecutively. Refer to Day71/Problem 2.pdf for detailed information.
