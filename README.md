@@ -465,3 +465,7 @@ Solved 2 coding problems from LeetCode using Python.
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to return True if num is a perfect square else False. Refer to Day82/Problem 1.pdf for more information regarding the problem. 
 2. The problem is to return the sum given a particular fashion. Refer to Day82/Problem 2.pdf for detailed information.
+
+## Day 83
+Solved 1 coding problem from LeetCode using Python. 
+1. The problem is related to count the distinct ways to climb to the top. Refer to Day83/Problem 1.pdf for more information regarding the problem. 
