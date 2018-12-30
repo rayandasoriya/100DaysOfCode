@@ -79,7 +79,7 @@ Solved 2 coding problems from HackerRank using Python. The problems are based on
 Solved 3 coding problems from HackerRank using Python. 
 1. The problem is related to counting the valleys formed by the letters. Refer to Day11/Problem 1.pdf for more information regarding the problem. 
 
-2. The problem is a jumping on the clouds. Basically, it is a safe move algorithm to reach the goal from the starting point without getting stuck.  Refer to Day11/Problem 2.pdf for detailed information.
+2. The problem is jumping on the clouds. Basically, it is a safe move algorithm to reach the goal from the starting point without getting stuck.  Refer to Day11/Problem 2.pdf for detailed information.
 
 3. The problem is related to find if a number is prime or not under the given time bound complexity. Refer to Day11/Problem 3.pdf for detailed information.
 
@@ -382,12 +382,12 @@ Solved 2 coding problems from LeetCode using Python.
 ## Day 64
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to find the least number of perfect square numbers. Refer to Day64/Problem 1.pdf for more information regarding the problem. 
-2. The problem is to finding the area of rectangles. Refer to Day64/Problem 2.pdf for detailed information. 
+2. The problem is to find the area of rectangles. Refer to Day64/Problem 2.pdf for detailed information. 
 
 ## Day 65
 Solved 2 coding problems from LeetCode using Python. 
-1. The problem is related to retrun the permutation of DI String case. Refer to Day65/Problem 1.pdf for more information regarding the problem. 
-2. The problem is to verify the lexiccographical order from the alien dictionary. Refer to Day65/Problem 2.pdf for detailed information. 
+1. The problem is related to return the permutation of DI String case. Refer to Day65/Problem 1.pdf for more information regarding the problem. 
+2. The problem is to verify the lexicographical order from the alien dictionary. Refer to Day65/Problem 2.pdf for detailed information. 
 
 ## Day 66
 Solved 2 coding problems from LeetCode using Python. 
@@ -454,7 +454,7 @@ Solved 1 coding problem from LeetCode using Python.
 
 ## Day 80
 Solved 1 coding problem from LeetCode using Python. 
-1. The problem is related to return the maximum length of an subarray that appears in both arrays. Refer to Day80/Problem 1.pdf for more information regarding the problem. 
+1. The problem is related to return the maximum length of a subarray that appears in both arrays. Refer to Day80/Problem 1.pdf for more information regarding the problem. 
 
 ## Day 81
 Solved 2 coding problems from LeetCode using Python. 
@@ -469,3 +469,8 @@ Solved 2 coding problems from LeetCode using Python.
 ## Day 83
 Solved 1 coding problem from LeetCode using Python. 
 1. The problem is related to count the distinct ways to climb to the top. Refer to Day83/Problem 1.pdf for more information regarding the problem. 
+
+## Day 84
+Solved 2 coding problems from LeetCode and Geeks for Geeks using Python. 
+1. The problem is related to return the least number of moves to make every value in an array unique. Refer to Day84/Problem 1.pdf for more information regarding the problem. 
+2. The problem is to return the number of characters to be removed from a string to make it an anagram. Refer to Day84/Problem 2.pdf for detailed information.
