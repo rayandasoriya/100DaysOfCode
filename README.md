@@ -474,3 +474,7 @@ Solved 1 coding problem from LeetCode using Python.
 Solved 2 coding problems from LeetCode and Geeks for Geeks using Python. 
 1. The problem is related to return the least number of moves to make every value in an array unique. Refer to Day84/Problem 1.pdf for more information regarding the problem. 
 2. The problem is to return the number of characters to be removed from a string to make it an anagram. Refer to Day84/Problem 2.pdf for detailed information.
+
+## Day 85
+Solved 1 coding problem from LeetCode using Python. 
+1. The problem is related to return the number of ways in which the candy bars can be exchanged. Refer to Day85/Problem 1.pdf for more information regarding the problem. 
