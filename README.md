@@ -478,3 +478,7 @@ Solved 2 coding problems from LeetCode and Geeks for Geeks using Python.
 ## Day 85
 Solved 1 coding problem from LeetCode using Python. 
 1. The problem is related to return the number of ways in which the candy bars can be exchanged. Refer to Day85/Problem 1.pdf for more information regarding the problem. 
+
+## Day 86
+Solved 1 coding problem from LeetCode using Python. 
+1. The problem is related to rotate a list to right by k places. Refer to Day86/Problem 1.pdf for more information regarding the problem. 
