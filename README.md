@@ -482,3 +482,7 @@ Solved 1 coding problem from LeetCode using Python.
 ## Day 86
 Solved 1 coding problem from LeetCode using Python. 
 1. The problem is related to rotate a list to right by k places. Refer to Day86/Problem 1.pdf for more information regarding the problem. 
+
+## Day 87
+Solved 1 coding problem from LeetCode using Python. 
+1. The problem is related to produce a valid string for number plates of the vehicles following a specific rule. Refer to Day87/Problem 1.pdf for more information regarding the problem. 
