@@ -486,3 +486,8 @@ Solved 1 coding problem from LeetCode using Python.
 ## Day 87
 Solved 1 coding problem from LeetCode using Python. 
 1. The problem is related to produce a valid string for number plates of the vehicles following a specific rule. Refer to Day87/Problem 1.pdf for more information regarding the problem. 
+
+## Day 88
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is related to return the number of '1's in the first N number in the magical string S. Refer to Day88/Problem 1.pdf for more information regarding the problem. 
+2. The problem is to return the length L and the width W of the web page you designed in sequence. Refer to Day88/Problem 2.pdf for detailed information.
