@@ -491,3 +491,8 @@ Solved 1 coding problem from LeetCode using Python.
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to return the number of '1's in the first N number in the magical string S. Refer to Day88/Problem 1.pdf for more information regarding the problem. 
 2. The problem is to return the length L and the width W of the web page you designed in sequence. Refer to Day88/Problem 2.pdf for detailed information.
+
+## Day 89
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is find the number of ways in which a symbol can be assigned to make the sum equal to the target. Refer to Day89/Problem 1.pdf for more information regarding the problem. 
+2. The problem is to find the longest uncommon sequence in two strings. Refer to Day89/Problem 2.pdf for detailed information.
