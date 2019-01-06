@@ -500,3 +500,7 @@ Solved 2 coding problems from LeetCode using Python.
 ## Day 90
 Solved 1 coding problem from LeetCode using Python. 
 1. The problem is related to maximize the number of content children in a cookie game. Refer to Day90/Problem 1.pdf for more information regarding the problem. 
+
+## Day 91
+Solved 1 coding problem from LeetCode using Python. 
+1. The problem is related to count the number of prime numbers less than n. Refer to Day91/Problem 1.pdf for more information regarding the problem.
