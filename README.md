@@ -504,3 +504,8 @@ Solved 1 coding problem from LeetCode using Python.
 ## Day 91
 Solved 1 coding problem from LeetCode using Python. 
 1. The problem is related to count the number of prime numbers less than n. Refer to Day91/Problem 1.pdf for more information regarding the problem.
+
+## Day 92
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is find the reverse of a 32 bit number. Refer to Day92/Problem 1.pdf for more information regarding the problem. 
+2. The problem is to return the number of 1's bit in the number. Refer to Day92/Problem 2.pdf for detailed information.
