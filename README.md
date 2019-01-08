@@ -509,3 +509,7 @@ Solved 1 coding problem from LeetCode using Python.
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is find the reverse of a 32 bit number. Refer to Day92/Problem 1.pdf for more information regarding the problem. 
 2. The problem is to return the number of 1's bit in the number. Refer to Day92/Problem 2.pdf for detailed information.
+
+## Day 93
+Solved 1 coding problem from LeetCode using Python. 
+1. The problem is related to return a list such that, for each day in the input, tells you how many days you would have to wait until a warmer temperature. Refer to Day93/Problem 1.pdf for more information regarding the problem.
