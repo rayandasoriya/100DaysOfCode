@@ -106,39 +106,32 @@ Solved 3 coding problems from LeetCode using Python.
 ## Day 15
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to find the target sum of the quadruples. Refer to Day15/Problem 1.pdf for more information regarding the problem. 
-
 2. The problem is related to the longest common prefix. Refer to Day15/Problem 2.pdf for detailed information.
 
 ## Day 16
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to find the largest common subsequence. Refer to Day16/Problem 1.pdf for more information regarding the problem. 
-
 2. The problem is related to the number of characters that need to be removed to match the string. Refer to Day16/Problem 2.pdf for detailed information.
 
 ## Day 17
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to find the sum of a range from a 2-d array. Refer to Day17/Problem 1.pdf for more information regarding the problem. 
-
 2. The problem is related to finding a new sub-array using the defined conditions. Refer to Day17/Problem 2.pdf for detailed information.
 
 ## Day 18
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to find an exclusive range of logs between the given time range. Refer to Day18/Problem 1.pdf for more information regarding the problem. 
-
 2. The problem is related to find the minimum sum for traversing from top left to bottom right of a 2-d array. Refer to Day18/Problem 2.pdf for detailed information.
 
 ## Day 19
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to printing the zig-zag pattern of an array. Refer to Day19/Problem 1.pdf for more information regarding the problem. 
-
 2. The problem is related to place the adjacent numbers together. Refer to Day19/Problem 2.pdf for detailed information.
 
 ## Day 20
 Solved 3 coding problems from LeetCode using Python. 
 1. The problem is related to the multiplication of two strings. Refer to Day20/Problem 1.pdf for more information regarding the problem. 
-
 2. The problem is related to the valid position movement of a robot in a 2-d matrix. Refer to Day20/Problem 2.pdf for detailed information.
-
 3. The problem is related to the card game 21. Refer to Day20/Problem 3.pdf for more information regarding the problem. 
 
 
@@ -513,3 +506,8 @@ Solved 2 coding problems from LeetCode using Python.
 ## Day 93
 Solved 1 coding problem from LeetCode using Python. 
 1. The problem is related to return a list such that, for each day in the input, tells you how many days you would have to wait until a warmer temperature. Refer to Day93/Problem 1.pdf for more information regarding the problem.
+
+## Day 94
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is to reverse a linked list from position m to n. Refer to Day94/Problem 1.pdf for more information regarding the problem. 
+2. The problem is to find the number of unique paths for a robot. Refer to Day94/Problem 2.pdf for detailed information.
