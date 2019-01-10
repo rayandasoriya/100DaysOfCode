@@ -511,3 +511,7 @@ Solved 1 coding problem from LeetCode using Python.
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is to reverse a linked list from position m to n. Refer to Day94/Problem 1.pdf for more information regarding the problem. 
 2. The problem is to find the number of unique paths for a robot. Refer to Day94/Problem 2.pdf for detailed information.
+
+## Day 94
+Solved 1 coding problem from LeetCode using Python. 
+1. The problem is to find the longest string in the dictionary that can be formed by deleting some characters of the given string. Refer to Day95/Problem 1.pdf for more information regarding the problem. 
