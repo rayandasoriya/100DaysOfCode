@@ -157,116 +157,92 @@ Solved 2 coding problems from LeetCode using Python.
 ## Day 24
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to find the container with most water. Refer to Day24/Problem 1.pdf for more information regarding the problem. 
-
 2. The problem is related to find the median of two arrays. Refer to Day24/Problem 2.pdf for detailed information.
 
 ## Day 25
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to convert an integer into its equivalent Roman numeral. Refer to Day25/Problem 1.pdf for more information regarding the problem. 
-
 2. The problem is related to distribute the array into two sets of unlike elements. Refer to Day25/Problem 2.pdf for detailed information.
 
 ## Day 26
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to find the possible characters while typing on a mobile phone. Refer to Day26/Problem 1.pdf for more information regarding the problem. 
-
 2. The problem is related to finding the length of the longest consecutive element sequence. Refer to Day26/Problem 2.pdf for detailed information.
 
 ## Day 27
 Solved 2 coding problems from LeetCode using Python and C++. 
 1. The problem is related to find the sum of the numbers in two linked list. Refer to Day27/Problem 1.pdf for more information regarding the problem. 
-
 2. The problem is related to find a valid triangle pair. Refer to Day27/Problem 2.pdf for detailed information.
 
 ## Day 28
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to find the pair of 4 numbers of a particular sum. Refer to Day28/Problem 1.pdf for more information regarding the problem. 
-
 2. The problem is related to find the minimum sum of a falling path through A. Refer to Day28/Problem 2.pdf for detailed information.
 
 ## Day 29
 Solved 2 coding problems from LeetCode using Java. 
 1. The problem is related to calculate the number of nodes in a complete binary tree. Refer to Day29/Problem 1.pdf for more information regarding the problem. 
-
 2. The problem is related to the smoothening of an image. Refer to Day29/Problem 2.pdf for detailed information.
 
 ## Day 30
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to finding the longest palindrome in a string. Refer to Day30/Problem 1.pdf for more information regarding the problem. 
-
 2. The problem is related to some operations of partitioning of a string. Refer to Day30/Problem 2.pdf for detailed information.
-
 
 ## Day 31
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to printing some elements in a fashionable way. Refer to Day31/Problem 1.pdf for more information regarding the problem. 
-
 2. The problem is related to search in a rotated sorted array. Refer to Day31/Problem 2.pdf for detailed information.
 
 ## Day 32
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to remove the duplicates in-place such that each element appears only once and return the new length. Refer to Day32/Problem 1.pdf for more information regarding the problem. 
-
 2. The problem is related to insert a new interval into the intervals. Refer to Day32/Problem 2.pdf for detailed information.
 
 ## Day 33
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to finding the number of decoded ways of a string. Refer to Day33/Problem 1.pdf for more information regarding the problem. 
-
 2. The problem is related to finding the surrounded regions. Refer to Day33/Problem 2.pdf for detailed information.
-
 
 ## Day 34
 Solved 2 coding problems from GeeksForGeeks using Python. 
 1. The problem is related to finding the maximum profit by buying and selling a share at most twice. Refer to Day34/Problem 1.pdf for more information regarding the problem. 
-
 2. The problem is related to finding the Longest Common Substring. Refer to Day34/Problem 2.pdf for detailed information.
-
 
 ## Day 35
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to finding the pairs which make the sum equal to 0. Refer to Day35/Problem 1.pdf for more information regarding the problem. 
-
 2. The problem is related to check if the binary tree is symmetric around the root. Refer to Day35/Problem 2.pdf for detailed information.
-
 
 ## Day 36
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to count the number of distinct, non-empty subsequences of S. Refer to Day36/Problem 1.pdf for more information regarding the problem. 
-
 2. The problem is related to find the longest palindromic subsequence. Refer to Day36/Problem 2.pdf for detailed information.
-
 
 ## Day 37
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to find the length of the longest increasing subsequence. Refer to Day37/Problem 1.pdf for more information regarding the problem. 
-
 2. The problem is related to check if it can be constructed by taking a substring of it and appending multiple copies of the substring together. Refer to Day37/Problem 2.pdf for detailed information.
 
 ## Day 38
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to convert the sorted array into a binary search tree. Refer to Day38/Problem 1.pdf for more information regarding the problem. 
-
 2. The problem is related to find the degree of an array. Refer to Day38/Problem 2.pdf for detailed information.
 
 ## Day 39
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to reshaping a matrix. Refer to Day39/Problem 1.pdf for more information regarding the problem. 
-
 2. The problem is related to check if two binary trees are same. Refer to Day39/Problem 2.pdf for detailed information.
 
 ## Day 40
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to searching a word in the grid. Refer to Day40/Problem 1.pdf for more information regarding the problem. 
-
 2. The problem is related to returning the maximum product after breaking it into the sum of at least two positive integers. Refer to Day40/Problem 2.pdf for detailed information.
 
 ## Day 41
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to finding the subsets of all the array. Refer to Day41/Problem 1.pdf for more information regarding the problem. 
-
 2. The problem is related to shifting the letters by a particular fashion. Refer to Day41/Problem 2.pdf for detailed information.
-
 
 ## Day 42
 Solved 1 coding problem from LeetCode using Python. 
@@ -275,7 +251,6 @@ Solved 1 coding problem from LeetCode using Python.
 ## Day 43
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to finding the minimum deletions required to sort an array. Refer to Day43/Problem 1.pdf for more information regarding the problem. 
-
 2. The problem is related to finding the biggest plus sign in the given pattern. Refer to Day43/Problem 2.pdf for detailed information.
 
 ## Day 44
@@ -289,7 +264,6 @@ Solved 1 coding problem from LeetCode using Python.
 ## Day 46
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to finding the total hamming distance. Refer to Day46/Problem 1.pdf for more information regarding the problem. 
-
 2. The problem is related to partitioning the array into equal k sets. Refer to Day46/Problem 2.pdf for detailed information.
 
 ## Day 47
@@ -303,7 +277,6 @@ Solved 1 coding problem from LeetCode using Python.
 ## Day 49
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is related to returning the triplets under certain condition. Refer to Day49/Problem 1.pdf for more information regarding the problem. 
-
 2. The problem is related to computing the h-index of the researcher. Refer to Day49/Problem 2.pdf for detailed information.
 
 ## Day 50
@@ -512,6 +485,11 @@ Solved 2 coding problems from LeetCode using Python.
 1. The problem is to reverse a linked list from position m to n. Refer to Day94/Problem 1.pdf for more information regarding the problem. 
 2. The problem is to find the number of unique paths for a robot. Refer to Day94/Problem 2.pdf for detailed information.
 
-## Day 94
+## Day 95
 Solved 1 coding problem from LeetCode using Python. 
 1. The problem is to find the longest string in the dictionary that can be formed by deleting some characters of the given string. Refer to Day95/Problem 1.pdf for more information regarding the problem. 
+
+## Day 96
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is to find the factorial of a number. Refer to Day96/Problem 1.pdf for more information regarding the problem. 
+2. The problem is to count the number of segments in a string. Refer to Day96/Problem 2.pdf for detailed information.
