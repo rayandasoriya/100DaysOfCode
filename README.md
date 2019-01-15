@@ -472,3 +472,8 @@ Solved 2 coding problems from LeetCode using Python.
 Solved 2 coding problems from LeetCode using Python. 
 1. The problem is to print an element which doesn't appear in the order. Refer to Day98/Problem 1.pdf for more information regarding the problem. 
 2. The problem is to print the second minimum element in the binary tree. Refer to Day98/Problem 2.pdf for detailed information.
+
+## Day 99
+Solved 2 coding problems from LeetCode using Python. 
+1. The problem is to return a list of all the possible combinations a string could return in alphanumeric form. Refer to Day99/Problem 1.pdf for more information regarding the problem. 
+2. The problem is to return the minimum length word from a dictionary, which has all the letters from the string "licensePlate". Refer to Day99/Problem 2.pdf for detailed information.
